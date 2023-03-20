@@ -36,13 +36,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **You can see a message that say "Hello Microverse"
+- **You can see a message that say "Hello Microverse"**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://shm04.github.io/rock-paper-scissors/)
+- [Live Demo Link](https://shm04.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
